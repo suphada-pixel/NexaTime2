@@ -38,7 +38,7 @@ export default function LoginPage({ onLogin }) {
 
         {/* LOGO */}
         <img
-          src="/image/Nexatimelogo.png"
+          src="image/Nexatimelogo.png"
           alt="logo"
           className="w-72 mb-1 mt-0 drop-shadow-md"
         />
